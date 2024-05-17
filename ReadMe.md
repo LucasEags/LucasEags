@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Meu nome é Lucas<br>- Atualmente sou estudante e estagiário na área de informática<br>- Tenho algumas noções de Python, Java e SQL<br>- Estou estudando front-end<br>- Gosto de resolver problemas e aprender coisas novas<br>- Sou entusiasta de olimíadas científicas <br>🎈
+- Meu nome é Lucas<br>- Atualmente sou estudante e estagiário na área de informática<br>- Tenho algumas noções de Python, Java e SQL<br>- Estou estudando front-end<br>- Gosto de resolver problemas e aprender coisas novas<br>- Sou entusiasta de olimpíadas científicas <br>🎈
 
 
 ## 🌐 Socials:
