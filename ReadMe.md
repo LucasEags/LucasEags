@@ -12,8 +12,7 @@ Me chamo Lucas<br>- Atualmente sou estudante e estagiário na área de informát
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LucasEags&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasEags&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed
-![](https://github-contributor-stats.vercel.app/api?username=LucasEags&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
