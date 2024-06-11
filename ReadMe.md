@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-- Estagiário na área de informática<br>- Atualmente estudando front-end e Django<br>- Gosto de resolver problemas e aprender coisas novas<br>- Sou entusiasta de olimpíadas científicas
+- Estagiário na área de informática<br> - Atualmente estudando front-end e Django<br>- Gosto de resolver problemas e aprender coisas novas<br>- Sou entusiasta de olimpíadas científicas
 
 
 ## 🌐 Links:
